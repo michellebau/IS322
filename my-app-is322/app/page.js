@@ -2,7 +2,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 import styles from './nav.module.css'
-import NightShiftToggle from './toggle'
+import NightShiftToggle from './Toggle'
 import { useState } from 'react';
 
 export default function Home() {
