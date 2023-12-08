@@ -1,3 +1,5 @@
+// toggle component for night switch
+
 import { useState } from 'react'
 import { Switch } from '@headlessui/react'
 
