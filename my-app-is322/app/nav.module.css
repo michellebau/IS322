@@ -1,5 +1,6 @@
+/* navbar links CSS */
 .navLinks {
     display: flex;
-    gap: 10px;  /* This is optional, but provides spacing between the links. */
+    gap: 10px;  /* provides spacing between the links */
   }
   

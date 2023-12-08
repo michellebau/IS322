@@ -1,4 +1,5 @@
 "use client"
+// homepage
 import Image from 'next/image'
 import Link from 'next/link'
 import styles from './nav.module.css'
